@@ -1,0 +1,150 @@
+*{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+body {
+    width: 80%;
+    margin: 20px;
+    border: solid 1px red;
+}
+#conteiner {
+    display: flex;
+    overflow: hidden;
+}
+#barrazul {
+    display: flex;
+    flex-direction: column;
+    background: #0a4e4f;
+    margin: 10px;
+    color: white;
+    align-items: center;
+    
+}
+#nombre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 10px;
+    margin: 0px auto 10px 
+}
+h1 {
+    margin: 60px 20px 0px;
+    font-size: 24pt;
+}
+h3 {
+    margin: 0px;
+    font-weight: 20;
+    font-size: 25pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px
+}
+
+#contacto {
+    margin: 5px 30px 20px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid 3px white;
+    padding: 0px 30px;
+    
+}
+.contitulo {
+    margin: 5px auto 0px;
+    font-weight: lighter;
+    font-size: 20pt;
+    font-kerning: inherit;
+    letter-spacing: 2px;
+    
+}
+.pleca {
+    border: solid 1px white;
+    width: 170px;
+    margin: 2px;
+}
+#fono {
+    height: 30px;
+    margin: 0px 20px 0px 0px;
+}
+.fon{
+    display: flex;
+    padding: 0px;
+    margin: 8px 0px 0px 0px;
+}
+.mail {
+    font-size: 18pt;
+    margin: 5px auto 8px;
+}
+#celu{
+    height: 20px;
+    margin: 10px auto auto;
+}
+#correoimg {
+    height: 25px;
+
+}
+#numerocel {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: 18pt;
+}
+#profesi {
+    margin: 0px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#mouse {
+    height: 60px;
+}
+#skillstitulo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    letter-spacing: 2px;
+    
+}
+#pro {
+    margin: 0px;
+    font-size: 20pt;
+    
+}
+#habi {
+    margin: 0px;
+    font-size: 20pt;
+}
+.plecados {
+    border: solid 2px white;
+    width: 273px;
+    margin: 2px;
+
+}
+UL {
+    list-style: none;
+    padding: 0px;
+}
+#skills {
+    
+    display: flex;
+    justify-content: flex-start;
+    margin: 0px 0px 0px 0px;
+}
+.list {
+    border: solid 3px white;
+    background: #0a4e4f;
+    border-right-width: 59px;
+    height: 10px;
+    width: 200px;
+    margin: 0px;
+    
+    
+}
+li {
+    padding-top: 7px;
+}
+#persona {
+    margin: 0px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#
