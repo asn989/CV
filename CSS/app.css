@@ -148,3 +148,8 @@ li {
     align-items: center;
     justify-content: center;
 }
+#infotres {
+    display: flex;
+    flex-direction: column;
+    background: #0a4e4f;
+} 
